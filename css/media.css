@@ -158,6 +158,9 @@
   .news__slider-inner .slick-btn{
     bottom: -90px;
   }
+  .slider__btn{
+    background-color: #ffc222;/**/
+  }
 }
 @media (max-width: 414px){
   .slider__title{

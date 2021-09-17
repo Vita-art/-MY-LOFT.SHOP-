@@ -252,7 +252,7 @@ header{
     line-height: 24px;
     letter-spacing: 0.25px;
     padding: 5px 38px;
-    border: 2px solid #e6e6e6;
+    border: 2px solid #ffc222;
 }
 .services__items{
     display: flex;

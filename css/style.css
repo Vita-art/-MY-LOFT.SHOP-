@@ -103,7 +103,7 @@ header{
 .menu a:hover{
     border-color: #ffc222;
 }
-.menu li + li{
+.menu li{
     padding: 10px;
 }
 #modal{
@@ -688,5 +688,5 @@ img{
 }
 .header__btn-menu{
     display: none;
-    font-size: 28px;
+    font-size: 36px;
 }
